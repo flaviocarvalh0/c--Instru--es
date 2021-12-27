@@ -1,0 +1,5 @@
+C:\Users\flavi\Desktop\Nova pasta\c# e .net exercicio 2\Exemplificando\obj\Debug\net5.0\Exemplificando.csproj.AssemblyReference.cache
+C:\Users\flavi\Desktop\Nova pasta\c# e .net exercicio 2\Exemplificando\obj\Debug\net5.0\Exemplificando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flavi\Desktop\Nova pasta\c# e .net exercicio 2\Exemplificando\obj\Debug\net5.0\Exemplificando.AssemblyInfoInputs.cache
+C:\Users\flavi\Desktop\Nova pasta\c# e .net exercicio 2\Exemplificando\obj\Debug\net5.0\Exemplificando.AssemblyInfo.cs
+C:\Users\flavi\Desktop\Nova pasta\c# e .net exercicio 2\Exemplificando\obj\Debug\net5.0\Exemplificando.csproj.CoreCompileInputs.cache
